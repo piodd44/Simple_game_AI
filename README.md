@@ -13,4 +13,3 @@ czyli posiadała funkcje które:<br>
 -zwraca pozycje po wykonaniu danego ruchu <br>
 -zwraca nr gracza który jest w danym momecie na ruchu <br>
 -zwraca klucz jednoznacznie identyfikujacy dana pozycjie ( nr gracza który jest na ruchu jest cześcią pozycji )<br>
-
