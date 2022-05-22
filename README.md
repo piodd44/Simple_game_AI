@@ -10,6 +10,6 @@ czyli posiadała funkcje które:<br>
 -koncowym pozycją w grze dają ocene 1 jeśli wygrał gracz 1 , -1 jeśli wygrał gracz 2 , 0 jeśli remis <br>
 -zwraca wszystkie legalne ruchy w pozycji <br>
 -zwraca pozycje po wykonaniu danego ruchu <br>
--zwraca nr_gracza który jest w danym momecie na ruchu <br>
+-zwraca nr gracza który jest w danym momecie na ruchu <br>
 -zwraca klucz jednoznacznie identyfikujacy dana pozycjie ( nr_gracza który jest na ruchu jest cześcią pozycji )<br>
 
