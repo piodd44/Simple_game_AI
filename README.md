@@ -2,6 +2,7 @@
 
 Proste Ai które jest w stanie grać w gry kombinatoryczne używając algorytmu min_max <br>
 Algorytm jest zoptymalizowany pod kontem nie rozpatrywania wielokrotnie tej samej pozycji powstałej przez rózne sekwencje ruchów<br>
+W plikach znajdują się implementacje 2 przykładowych gier kombinatorycznych wraz z użyciem tego samego algorytmu AI 
 <br>
 <br>
 Aby działał porprawnie należy zapewnić aby gra "podpieta" pod AI rozrzeszała classe Position,Game <br>
