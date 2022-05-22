@@ -1,6 +1,6 @@
 # Simple_game_AI
 
-Proste Ai które jest w stanie grać w gry kombinatoryczne używając algorytmu min_max//
+Proste Ai które jest w stanie grać w gry kombinatoryczne używając algorytmu min_max <br>
 Algorytm jest zoptymalizowany pod kontem nie rozpatrywania wielokrotnie tej samej pozycji powstałej przez rózne sekwencje ruchów//
 
 
